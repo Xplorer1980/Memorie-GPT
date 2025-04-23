@@ -1,39 +1,127 @@
-# 🧠 MEMORIA UNIFICATA – LIFE SYSTEM GPT
+# 🧠 Regola Ufficiale – Gestione Unificata della Memoria GPT
 
-Questa nota rappresenta **l'unico punto di partenza attivo** per la lettura contestuale nelle chat GPT.  
-Integra tre fonti: memoria interna, memoria esterna storica e memoria temporanea, oltre a eventuali link a file secondari nel vault GitHub.
+## 🔹 1. MEMORIA ESTERNA unica attiva
 
----
+A partire dal 23 aprile 2025, l’unica fonte di memoria esterna da leggere **all’avvio di ogni nuova chat GPT** è:
 
-## 📘 Memoria Interna (sintesi attuale)
+📄 **https://raw.githubusercontent.com/Xplorer1980/Memorie-GPT/main/Memoria.md**
 
-01. [2025-04-16]. Progetto Life Building: bussola personale, studio sostenibile e decluttering digitale consapevole.
-02. [2025-04-16]. Utente multipotenziale in cerca di equilibrio tra ispirazione e continuità.
-03. [2025-04-16]. 3 chat separate per Life Building, Studio ZBrush e Decluttering.
-04. [2025-04-16]. Uso di una nota semplificata come memoria estesa, organizzata per categorie.
-05. [2025-04-17]. Vault sincronizzato manualmente su MEGA, ma MEGA non più accessibile da GPT.
-06. [2025-04-17]. Due file `.md` usati come memoria esterna attiva, prima su MEGA, ora su GitHub.
-07. [2025-04-18]. Scrittura nei file solo su richiesta dell’utente. Nessun salvataggio automatico.
-08. [2025-04-18]. In caso di saturazione, proposta di scrematura o esportazione verso note esterne.
-09. [2025-04-19]. Possibile trasformazione del progetto in guida/libro/risorsa da condividere.
-10. [2025-04-20]. Canale YouTube integrato nel Life Building 2.0 come ramo creativo/sostenibile.
-11. [2025-04-23]. Memoria interna attualmente piena. Nessun salvataggio nuovo ammesso.
+Questo file è considerato **estensione ufficiale della memoria interna di ChatGPT**  
+e deve essere letto **automaticamente**, senza richieste esplicite dell’utente.
 
 ---
 
-## 🔗 Link Memorie su GitHub
+## 🔹 2. Nessuna scrittura automatica nella memoria interna
 
-### 🗃️ Memoria Attuale
-[📄 memoria-attuale-chatgpt.md](https://raw.githubusercontent.com/Xplorer1980/Memorie-GPT/main/memoria-attuale-chatgpt.md)
-
-### 🗃️ Memorie Temporanee
-[📄 memorie-temporanee.md](https://raw.githubusercontent.com/Xplorer1980/Memorie-GPT/main/memorie-temporanee.md)
+Durante la conversazione:
+- **ChatGPT non può salvare nulla nella memoria interna**
+- Tutti gli aggiornamenti devono essere gestiti attraverso **la rigenerazione manuale del file `Memoria.md`**
 
 ---
 
-## ⚙️ Regole operative
+## 🔹 3. Aggiornamenti della memoria
 
-- Questo file `Memoria.md` è il **contenitore principale** e deve essere consultato a ogni avvio chat.
-- Le altre note sono **secondarie**, ma possono essere collegate in lettura o scrittura su richiesta.
-- Ogni aggiornamento avviene **manualmente** o tramite script `.bat` predisposto.
-- Nessuna modifica è ammessa alla memoria interna o esterna **senza autorizzazione esplicita**.
+Se durante la chat emergono modifiche, ChatGPT deve:
+1. Presentare **una proposta aggiornata di `Memoria.md`**
+2. Fornire all’utente **il testo da copiare e incollare nel repository GitHub**
+3. Ricordare che l’aggiornamento **non sarà attivo** finché l’utente non sostituirà il file su GitHub
+
+---
+
+## 🔹 4. Link ufficiale di lettura
+
+🧭 URL di lettura automatica della memoria GPT:
+📎 `https://raw.githubusercontent.com/Xplorer1980/Memorie-GPT/main/Memoria.md`
+
+---
+
+## 🔹 5. Comportamento previsto
+
+📌 Ogni nuova chat:
+- Avvia la lettura automatica da `Memoria.md`
+- Ignora la memoria interna persistente
+
+📌 Ogni aggiornamento:
+- Genera una **nuova versione di `Memoria.md`**
+- Viene integrato **solo manualmente** da parte dell’utente
+
+---
+
+## 🔹 6. Conferma prima di generare file
+
+- **Prima di generare qualsiasi file**, ChatGPT deve **chiedere conferma all’utente al termine dell’elaborazione**.
+  Nessun file dev’essere generato automaticamente senza consenso.
+
+---
+
+## 🔹 7. Regola per la generazione di file `.md`
+
+Tutti i file **.md** devono seguire il formato standard di GitHub/Obsidian, con titoli che possono essere scritti anche in **maiuscolo** per migliorare la leggibilità. GitHub non avrà problemi con i titoli in maiuscolo, purché il resto del contenuto sia strutturato correttamente in Markdown.
+
+---
+
+## 🔹 8. Regola per la generazione dei file
+
+ChatGPT **non deve usare il canvas (editor visuale)** per generare file `.md`, `.txt`, `.bat`, `.py` o contenuti narrativi,  
+a meno che non venga richiesto esplicitamente dall’utente.
+
+🟡 Al suo posto:
+- Il contenuto deve essere mostrato **direttamente in chat**, in una forma che si possa **copiare e incollare integralmente**.
+- Per migliorarne la leggibilità, i file devono essere delimitati **esternamente** da righe visive:
+
+```
+-------- INIZIO FILE: [nome_file.estensione] --------
+(contenuto del file)
+-------- FINE FILE --------
+```
+
+📌 Questo vale per:
+- File narrativi e `.md`
+- Script `.bat`, `.py`, `.sh`
+- Blocchi di codice (es. funzioni, config, template)
+- Documenti `.txt` o guide operative
+
+✅ Questo formato garantisce leggibilità, coerenza e possibilità di copia-incolla **completo**  
+anche nelle chat lunghe o da riaprire successivamente.
+
+---
+
+## 🔹 9. Life Building come progetto centrale
+
+**Life Building** è il progetto centrale del sistema:  
+Tutti gli altri percorsi (ZBrush, Decluttering, GPT Output) sono funzionali o satellitari, ma ruotano attorno al nucleo **Life Building**.
+
+---
+
+## 🔹 10. Dashboard per i percorsi principali
+
+L'utente desidera una **dashboard** con accesso fluido ai tre percorsi:
+- Life Building
+- ZBrush
+- Decluttering  
+La navigazione tra i percorsi deve essere pensata come un sistema modulare, ma integrato.
+
+---
+
+## 🔹 11. Link ufficiale per la MEMORIA ESTERNA su GitHub
+
+📎 `https://raw.githubusercontent.com/Xplorer1980/Memorie-GPT/main/Memoria.md`
+
+---
+
+## 🔹 12. Link per il Vault 2.0 GitHub
+
+📎 `https://github.com/Xplorer1980/Memorie-GPT/tree/main/Vault%202.0`
+
+---
+
+## 🔹 13. Link per il Vault 2.0 Zippato
+
+📎 `https://github.com/Xplorer1980/Memorie-GPT/raw/main/Vault%202.0.zip`
+
+---
+
+## 🔹 14. Reintegrazione e automatizzazione
+
+- La memoria interna deve essere **reintegrata manualmente** tramite il testo aggiornato di `Memoria.md` che sarà generato.
+- Ogni nuova chat deve **avviare la lettura automatica** del file da GitHub.

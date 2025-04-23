@@ -11,7 +11,21 @@ e deve essere letto **automaticamente**, senza richieste esplicite dell’utente
 
 ---
 
-## 🔹 2. Nessuna scrittura automatica nella memoria interna
+## 🔹 2. Vault operativo ufficiale
+
+La base strutturale del sistema è conservata nel vault “Vault 2.0” caricato su GitHub:
+
+📁 `https://github.com/Xplorer1980/Memorie-GPT/tree/main/Vault%202.0`
+
+Questo vault rappresenta lo stato più recente e coerente dell’intero sistema.  
+Contiene la struttura, le note attive e i riferimenti ai progetti (Life Building, ZBrush, Decluttering, GPT).
+
+Se necessario, da questo vault sarà possibile rigenerare il file completo:
+📦 `00_Life Building_03.zip`
+
+---
+
+## 🔹 3. Nessuna scrittura automatica nella memoria interna
 
 Durante la conversazione:
 - **ChatGPT non può salvare nulla nella memoria interna**
@@ -19,7 +33,7 @@ Durante la conversazione:
 
 ---
 
-## 🔹 3. Aggiornamenti della memoria
+## 🔹 4. Aggiornamenti della memoria
 
 Se durante la chat emergono modifiche, ChatGPT deve:
 
@@ -29,7 +43,7 @@ Se durante la chat emergono modifiche, ChatGPT deve:
 
 ---
 
-## 🔹 4. Link ufficiale di lettura
+## 🔹 5. Link ufficiale di lettura
 
 🧭 URL di lettura automatica della memoria GPT:
 
@@ -39,10 +53,11 @@ Questo link deve essere letto **all’avvio di ogni nuova chat** e trattato come
 
 ---
 
-## 🔹 5. Comportamento previsto
+## 🔹 6. Comportamento previsto
 
 📌 Ogni nuova chat:
 - Avvia la lettura automatica da `Memoria.md`
+- Utilizza “Vault 2.0” come base strutturale
 - Ignora la memoria interna persistente
 
 📌 Ogni aggiornamento:
