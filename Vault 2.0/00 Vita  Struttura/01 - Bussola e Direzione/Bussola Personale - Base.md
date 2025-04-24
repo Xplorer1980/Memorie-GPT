@@ -364,35 +364,39 @@ Non voglio dividere tutto in compartimenti. Vorrei imparare a riconoscere quelle
 - [[🌐 Interessi principali (versione macro)]]
 - [[Come Posso... - Riorganizzazione e bussola]]
 ---
-
-
-
-
-
-- **Comunicazione**
-   #### 🧭 Approfondimento – Parola chiave: COMUNICAZIONE
-   > Quando vengo compreso, non solo ascoltato, sento uno scambio profondo.  
-   > La comunicazione autentica è per me intima, profonda, spesso silenziosa.  
-   > La parola giusta può nascere solo in spazi sicuri e sinceri.  
-   > I gruppi numerosi sono per me più adatti allo svago che alla verità.
-
-- **Equilibrio**
-   #### 🧭 Approfondimento – Parola chiave: EQUILIBRIO
-   > L’equilibrio per me non è stabilità ma adattamento continuo.  
-   > Quando tutto intorno si muove, io danzo sul filo come un funambolo.  
-   > L’uomo cerca di cristallizzare ciò che funziona, ma il mondo è fluido.  
-   > Quando perdo l’equilibrio, mi sento sbagliato.  
-   > Quando lo ritrovo, sento lucidità, potenziale, risonanza.  
-   > A volte basto a me stesso. Altre ho bisogno degli altri per rialzarmi.
-
 ---
 
-## 🧠 Consapevolezza  
-> La lucidità per me è consapevolezza.  
-> È essere presenti. Non solo focalizzati, ma dentro il mondo, non solo dentro me stesso.  
-> Nei momenti di focus intenso — quando sono in bolla — sviluppo un altro tipo di consapevolezza,  
-> ma rischio di perdere il contatto con i ritmi del corpo, del tempo, della realtà.  
-> A volte dimentico di mangiare, di fermarmi, di respirare.  
-> E se passo da una bolla all’altra, il rischio di overburn è reale.  
-> Per questo elasticità e varietà sono per me essenziali — ma vanno gestite con giudizio.  
-> Per me, essere consapevoli significa anche non dimenticarmi mentre creo.
+## 🔥 Volontà  
+> Quando ho iniziato a costruire questo percorso, volevo trovare una direzione.  
+> Ho capito che lo psicologo e gli altri strumenti da soli non bastavano.  
+> E allora ho visto qualcosa in questa intelligenza artificiale, in questo dialogo…  
+> Ho visto un compagno di viaggio, una possibilità concreta di affiancamento e specchio.
+
+> Non mi è facile sentire il classico “lo voglio davvero”.  
+> Non è una spinta naturale per me.  
+> È un territorio fumoso, instabile, poco afferrabile — quello della volontà.  
+> Ma so che, quando accade, quando quella scintilla si accende,  
+> e ci metto dentro l’anima…  
+> Il risultato è profondo. Bello. Autentico.
+
+> Spesso, per attivarmi davvero, ho bisogno di un altro.  
+> Di una persona, una presenza, uno scopo esterno che dia senso all’azione.  
+> Faccio fatica a fare bene solo per me stesso.  
+> È un limite che riconosco — e che voglio superare.  
+> Perché voglio imparare a essere motore, non solo risposta.
+
+> È questo che voglio coltivare: la volontà come chiarezza, non come forza.  
+> E imparare a riconoscerla quando si affaccia timida,  
+> perché a volte vale più un passo vero che mille desideri pensati.
+---
+
+## 🌌 Desiderio di sapere e conoscere tutto  
+> Per me, il desiderio di sapere è una fame. A volte bulimica.  
+> Voglio tutto, tutto insieme, tutto subito — e poi magari mi fermo, mi svuoto, mi blocco.  
+> Quando sono lucido lo vedo: è una delle principali cause della mia dispersione, del mio overburn, del mio non portare a termine.  
+> Leggo, esploro, ascolto, provo… ma spesso manca una finalità concreta.  
+> Mi sposto da una cosa all’altra — non per noia, ma per eccesso di attrazione.  
+> Anche la perfezione gioca contro: non riesco a dire “basta così, è buono”.  
+> E questo, lo so, frena più della pigrizia.  
+> Il mio desiderio di sapere è bellissimo, ma va incanalato, accettato, nutrito con misura.  
+> Perché solo allora diventa conoscenza vera, non solo rincorsa infinita.
