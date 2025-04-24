@@ -384,3 +384,15 @@ Non voglio dividere tutto in compartimenti. Vorrei imparare a riconoscere quelle
    > Quando perdo l’equilibrio, mi sento sbagliato.  
    > Quando lo ritrovo, sento lucidità, potenziale, risonanza.  
    > A volte basto a me stesso. Altre ho bisogno degli altri per rialzarmi.
+
+---
+
+## 🧠 Consapevolezza  
+> La lucidità per me è consapevolezza.  
+> È essere presenti. Non solo focalizzati, ma dentro il mondo, non solo dentro me stesso.  
+> Nei momenti di focus intenso — quando sono in bolla — sviluppo un altro tipo di consapevolezza,  
+> ma rischio di perdere il contatto con i ritmi del corpo, del tempo, della realtà.  
+> A volte dimentico di mangiare, di fermarmi, di respirare.  
+> E se passo da una bolla all’altra, il rischio di overburn è reale.  
+> Per questo elasticità e varietà sono per me essenziali — ma vanno gestite con giudizio.  
+> Per me, essere consapevoli significa anche non dimenticarmi mentre creo.
