@@ -366,21 +366,3 @@ Non voglio dividere tutto in compartimenti. Vorrei imparare a riconoscere quelle
 ---
 
 
-
-
-
-- **Comunicazione**
-   #### 🧭 Approfondimento – Parola chiave: COMUNICAZIONE
-   > Quando vengo compreso, non solo ascoltato, sento uno scambio profondo.  
-   > La comunicazione autentica è per me intima, profonda, spesso silenziosa.  
-   > La parola giusta può nascere solo in spazi sicuri e sinceri.  
-   > I gruppi numerosi sono per me più adatti allo svago che alla verità.
-
-- **Equilibrio**
-   #### 🧭 Approfondimento – Parola chiave: EQUILIBRIO
-   > L’equilibrio per me non è stabilità ma adattamento continuo.  
-   > Quando tutto intorno si muove, io danzo sul filo come un funambolo.  
-   > L’uomo cerca di cristallizzare ciò che funziona, ma il mondo è fluido.  
-   > Quando perdo l’equilibrio, mi sento sbagliato.  
-   > Quando lo ritrovo, sento lucidità, potenziale, risonanza.  
-   > A volte basto a me stesso. Altre ho bisogno degli altri per rialzarmi.

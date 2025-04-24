@@ -11,14 +11,10 @@
             "id": "b1b1a550aad828fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Vita  Struttura/01 - Bussola e Direzione/Bussola Personale - Base.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bussola Personale - Base"
+              "title": "New tab"
             }
           }
         ]
@@ -170,6 +166,8 @@
   },
   "active": "dc5b05aaf1138005",
   "lastOpenFiles": [
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola Personale - Base.md",
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola Personale - Base (2).md",
     "00 Vita  Struttura/01 - Bussola e Direzione/Sintesi_LifeBuilding_Operativa.md",
     "00 Vita  Struttura/01 - Bussola e Direzione/Sintesi_LifeBuilding_Operativa (1).md",
     "Index.md",
@@ -202,8 +200,6 @@
     "01 Progetti/01_Zbrush/Corso Zbrush guidato con metodo tramite chatgpt.md",
     "Template e Prompt utili/🧠 Memoria Attuale ChatGPT.md",
     "Template e Prompt utili/🧠 Memorie Temporanee.md",
-    "Template e Prompt utili/🧠 Memoria Attuale – Completa.md",
-    "Template e Prompt utili/2025-04-16 - MEMORIA ESTESA.md",
     "04 Strumenti/Decluttering",
     "01 Progetti/01_Zbrush"
   ]
