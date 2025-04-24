@@ -75,6 +75,10 @@ ma perché io valgo abbastanza da non dover prendere tutto.”
 ---
 
 
+"La coerenza non è rigidità: è presenza nel tempo."
+
+
+---
 
 
 ✍️ Puoi continuare a raccogliere qui le tue frasi preferite emerse dalle conversazioni.
