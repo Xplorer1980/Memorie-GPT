@@ -1,0 +1,112 @@
+Conversazioni da rivedere (aggiungi una 'X' accanto a quelle che ritieni importanti):
+
+[x ] Life Building 03
+[ x] Life Building 2.0 Update
+[ x] GITHUB
+[ x] Equilibrio nel Life Building
+[ ] Mini corso GitHub
+[x ] ZBrush 01
+[ x] Zbrush 00
+[ x] Ripartenza Life Building
+[ x] Life Building - Chat principale
+[ ] Acquisto ZBrush senza abbonamento
+[ ] Rivivere un bonsai secco
+[x ] ZBrush 2.0 Piano di lavoro
+[ ] Whisper Trascrizione Python
+[ ] Latenza e ottimizzazione OPN AI
+[x ] Progetto YouTube Unificato
+[ x] Come fare lastre vetro
+[ x] Progetto Canale YouTube
+[x ] Vaporizzatore fai-da-te coccio
+[ x] Spostamento conversazione progetti YouTube
+[ ] Errore 11512 Kobra S1
+[x ] Decluttering Process
+[ ] Categorizzazione link e output
+[ ] Salvataggio automatico immagini Telegram
+[ ] Liste cartelle e duplicati
+[x ] GPTs_Monetizzazione
+[ ] Apertura ad albero Windows
+[ ] $ FP Spostare oggetti tra layer
+[ ] Icona HD esterno
+[ x] Viscosità e Densità
+[ ] Disattivare correzione ortografica
+[ ] Notepad++ Markdown Obsidian
+[ ] Sigillatura plastica fai da te
+[ ] Unire account Pinterest velocemente
+[x ] Tec. decorative effetto 3D
+[ ] Genetica e criminalità
+[ ] Introduzione a Tampermonkey
+[ ] Tappetino da taglio
+[ x] Memoria e file .md
+[x ] 0_Scrematura e gestione pdf
+[ ] Gestione bacheche di riferimento
+[ ] $ FP Prediabete e scelte alimentari
+[x ] Crecita e Sviluppo
+[ x] Ciao come stai
+[ x] Integrazione e Strumenti Utili
+[ x] app e software
+[ x] Ottimizzare vita con Obsidian
+[ x] Schema progetti LifeBuilding
+[ x] X_Gestire la curiosità eccessiva
+[ x] Life building e magazzino
+[ ] $ FP UTM Virtual Machine Win 11
+[ ] $ FP Invasione Ucraina spiegata
+[ ] $ FP Calcolo determinante matrice 4x4
+[ ] $ FP Creare immagine da descrizione
+[ ] $ FP Manifesto di Ventotene
+[ ] $ FP Bocaioli e Carbonai - Libri su Montalcino
+[ ] $ FP Codice C++ Arduino UNO
+[ ] $ FP Tecnologie per Qubit
+[ ] $ FP Prestazioni Calcolatore Quantistico
+[ ] $ FP Trasferire file su UTM
+[ ] I$ FP ISEE Corrente e Disoccupazione
+[ ] $ FP Errore programma Python
+[ ] $ FP Dazi commerciali Trump
+[ ] $ FP Problema torcia Samsung A72
+[ ] $ FP Problemi LibreCAD
+[ ] $ FP Esame TSH e tiroide
+[ ] $ FP Chat bloccata soluzioni
+[ ] $ FP Origine cognome De Ricco
+[ ] $ FP Sincronizzazione Google Drive Mac
+[ ] Template Templater Obsidian
+[ ] Guida ai tag
+[ ] Differenza tra # e ##
+[ x] Corso base Obsidian 4 settimane
+[ ] Tabella in Obsidian
+[ ] Protezione password vault Obsidian
+[ ] Allegare PDF in Obsidian
+[ ] Trova percorso vault Obsidian
+[x ] Organizzazione Domande FAQ
+[ ] Sfruttare la chiusura automatica
+[ ] Sfruttare tag in Obsidian
+[ ] Creare note in cartella
+[ x] Guida Python 4 settimane
+[ x] Resto in Python
+[ ] Commentare codice velocemente
+[ ] Vault multipli in Obsidian
+[ ] Collegamenti bidirezionali Obsidian
+[ ] Link a cartelle in Obsidian
+[ ] Data Science + Emot Obsidian
+[ ] Spazi nel codice
+[ ] Commenti in Python
+[ ] Uscita audio multipla PC
+[ x] Character sheet e pose
+[ x] Gioielli 3D personalizzati
+[ x] Come fare un anello
+[ ] Pulizia e ottimizzazione PC
+[ x] Percorso da Illustratore
+[ ] Trascrizione audio automatica
+[ x] Strumenti per scrivere GdR
+[ ] Esportare memorie chat
+[ ] Liberatoria per fotografie
+[ ] BWD-01 Trattamento Acque Reflue
+[ ] Converti codici numerici.
+[ ] Alternative Avocado Toast.
+[ x] Ego Dissolution Philosophers
+[ ] Midjourney Prompt Creation
+[ ] Rete Piatta Overview
+[ ] Controllare stato PC remoto
+[ ] Script controllo remoto corretto
+[ ] Controllo Remoto File PowerShell
+[ ] File Check Script Update
+[ ] Roman Nostalgia: Midjourney Prompt

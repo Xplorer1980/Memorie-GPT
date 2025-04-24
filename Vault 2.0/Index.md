@@ -9,22 +9,22 @@ Questo file serve da punto di accesso rapido all'interno del Vault Life Building
 - [[00 - Principi che mi guidano]] → Bussola interiore e valori guida
 - [[Bussola Personale - Base]] → Sintesi di orientamento settimanale
 - [[Sintesi_LifeBuilding_Operativa]] → Mappa concettuale dei temi chiave
-- [[Mappa_Mentale_LifeBuilding.png]] → Rappresentazione visiva
+- _(link non trovato)_ → Rappresentazione visiva
 
 ---
 
 ## 🔹 NOTE OPERATIVE
-- [[Ripartenza Life Building]]
-- [[Life Building 2.0 Update]]
-- [[Life Building 03]]
-- [[Equilibrio nel Life Building]]
+- _(link non trovato)_
+- _(link non trovato)_
+- _(link non trovato)_
+- _(link non trovato)_
 
 ---
 
 ## 🔹 ARCHIVIO E STRUMENTI
-- [[conversations.json]] → Esportazione archivio completo
-- [[Memoria_Esterna_LifeBuilding_Integrata]] → Riflessi delle chat nel tempo
-- [[Vault Backup (zip)]] → Salvataggi periodici
+- _(link non presente nel Vault)_ → Esportazione archivio completo
+- _(link non trovato)_ → Riflessi delle chat nel tempo
+- _(link non gestibile localmente)_ → Salvataggi periodici
 
 ---
 

@@ -10,15 +10,15 @@
 
 ## 🔁 Inizia da qui (quando ti senti disorientato)
 
-🔗 [[📅 Percorso guidato – Rientro nel sistema]]
+🔗 [[Percorso guidato  Rientro nel sistema]]
 
 ---
 
 ## 🧭 Orientamento e Valori
 
-🔗 [[📌 Bussola Personale - Base]]  
-🔗 [[🧭 Visione - Valore - Direzione]]  
-🔗 [[0_Le due domande guida 🔍]]
+🔗 [[Bussola Personale - Base]]  
+🔗 [[Visione - Valore - Direzione]]  
+🔗 [[0_Le due domande guida ]]
 
 ---
 
