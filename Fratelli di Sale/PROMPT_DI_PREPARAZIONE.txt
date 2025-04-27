@@ -1,0 +1,28 @@
+PROMPT DI PREPARAZIONE - MIGRAZIONE CHAT (Fratelli di Sale)
+
+Prima di chiudere la chat attiva:
+
+1. Verifica di avere i file salvati aggiornati:
+   - 00_Intro.txt
+   - 01_Ponte.txt
+   - 02_Call.txt
+   - Il_Canto_del_Mare.md
+   - Tecniche_Narrative_Fratelli_di_Sale.md
+   - PROMPT_DI_PREPARAZIONE.txt
+   - PROMPT_DI_MIGRAZIONE.txt
+
+2. Controlla lo stato della storia:
+   - Dove siamo arrivati? (Es: Sid sta per raccontare ai Fratelli di Sale)
+   - Quale tono mantenere? (Es: autentico, emotivo, sospeso)
+
+3. Se hai allegati supplementari (nuove bozze, illustrazioni, mappe):
+   - Prepara una nota o una descrizione breve da poter ri-allegare o ri-raccontare nella nuova chat.
+
+4. Prendi nota delle ultime decisioni narrative importanti:
+   - Titolo confermato: Fratelli di Sale
+   - Sottotitolo: da decidere più avanti
+   - Tono narrativo: poetico ma concreto
+   - Struttura emotiva: presenza di conflitti interni tra amici
+
+5. Una volta tutto pronto, apri una nuova chat e usa il PROMPT_DI_MIGRAZIONE.txt per riprendere il viaggio senza perdere continuità.
+

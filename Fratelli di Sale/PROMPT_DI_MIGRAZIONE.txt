@@ -1,0 +1,30 @@
+PROMPT DI MIGRAZIONE - NUOVA CHAT (Fratelli di Sale)
+
+Ciao! Questa è la continuazione del progetto narrativo "Fratelli di Sale".
+
+Contesto operativo:
+- Racconto di formazione, legato a una fratellanza profonda tra giovani pescatori.
+- Ambientazione marina, elementi di mitologia, forte componente emotiva.
+- Tema chiave: il conflitto interiore e la crescita condivisa.
+
+Stato della storia:
+- Sid è stato salvato fisicamente dai suoi amici sulla barca.
+- Ora si trova tremante, bagnato, pronto a confessare l’esperienza vissuta durante il richiamo del Canto del Mare.
+
+Tono richiesto:
+- Poetico ma realistico.
+- Emozioni vere, non forzate.
+- Profonda coerenza nei caratteri dei personaggi: Sid (Cuore), Leo (Coraggio), Marco (Ragione), Luca (Sogno).
+
+Allegati di riferimento (da avere caricati o descritti se necessario):
+- 00_Intro.txt
+- 01_Ponte.txt
+- 02_Call.txt
+- Il_Canto_del_Mare.md
+- Tecniche_Narrative_Fratelli_di_Sale.md
+
+Obiettivo:
+- Proseguire dal punto in cui Sid sta per aprirsi ai Fratelli di Sale.
+- Mantenere il respiro e la coerenza narrativa sviluppata fino ad ora.
+
+Grazie!
