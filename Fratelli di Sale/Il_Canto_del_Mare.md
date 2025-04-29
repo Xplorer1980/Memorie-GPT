@@ -59,3 +59,18 @@ c'è un piccolo richiamo a questa verità:
 **essere parte del tutto senza resistere.**
 
 ---
+
+
+
+## Il Giuramento dei Fratelli di Sale
+
+Finché ascolteremo il mare, resteremo uniti.
+
+---
+
+## Le Parole del Nonno
+
+"Non sei mai solo, Sid...  
+Il mare è dentro di te. E tu sei dentro il mare. Non è un posto, è un viaggio.  
+La paura... non è qualcosa da temere, Sid. La paura è il vento che ti spinge avanti. È il mare che ti sfida per diventare più forte.  
+Mi diceva sempre che il mare non è mai lontano. Anche quando non lo vedi, è dentro di te. Come il cuore, Sid, è sempre lì, anche quando non lo senti più."

@@ -1,0 +1,77 @@
+Midjourney Prompts – Fratelli di Sale (Versione 6)
+
+---
+
+ENGLISH PROMPTS
+0. An isolated coastal village with white greek-style houses and red roofs, surrounded by dense tropical forest and facing a vast deep sea. The scene takes place at golden hour. Four young boys stand at the edge of the village, gazing at the ocean, backs turned. From the sea, golden ethereal filaments rise in soft, spiraling currents of wind — a gentle force lifting spirit and body. The sky is filled with movement, painted in soft watercolors, with acrylic brush textures enhancing details like rooftops, clothing edges, and eyes. The whole image feels poetic, cinematic, filled with wind, sea, silence, and transcendence. --v 6 --ar 3:4 --style raw --style expressive
+
+1. An isolated coastal village with white houses and red roofs, nestled between a dense tropical forest and an endless sea. Four young boys stand on the edge of the land, gazing at the ocean. Gentle golden filaments rise from the water, spiraling like soft wind carrying dreams. Watercolor base with acrylic detailing. Cinematic, poetic, atmospheric. --v 6 --ar 3:4 --style raw --style expressive
+
+2. A poetic seaside scene at dusk: a Greek-style fishing village with red roofs, surrounded by wild greenery and open sea. Ethereal golden threads swirl upward from the ocean, enveloping four silhouettes standing at the shore. The sky and sea blend in soft watercolors with sharp acrylic highlights. --v 6 --ar 3:4 --style raw --style expressive
+
+3. On the shoreline of a remote island, four youths face the horizon. Behind them, white homes with red tile roofs, ahead of them, golden spirals of wind rise from the sea. An allegory of growth, identity, and spirit. Watercolor and acrylic hybrid painting. --v 6 --ar 3:4 
+
+4. Epic cover art style: Four young boys on a cliff by the ocean, golden wind swirling around them, a distant village with red rooftops behind. Tropical trees sway in the background. Gentle twilight atmosphere, watercolor softness, acrylic precision. --v 6 --ar 3:4  --style raw
+
+5. A mystical wind of gold rises from the ocean, curling around four young souls on the beach of a quiet southern village. The image is rich with symbolic texture: sea, sky, forest, and the unspoken link between them. Stylized watercolor with detailed acrylic enhancements. --v 6 --ar 3:4 
+
+6. Golden spiritual wind rises like a soft spiral from the sea, lifting the gaze and hearts of four barefoot boys at the edge of a forgotten coast. The sky is alive, the sea whispering. The village behind them watches in silence. Dreamlike, detailed, and evocative. --v 6 --ar 3:4 
+
+---
+
+TRADUZIONI IN ITALIANO
+
+1. Un villaggio costiero isolato con case bianche e tetti rossi, incastonato tra una fitta foresta tropicale e un mare infinito. Quattro giovani ragazzi in piedi sul bordo della terra guardano l’oceano. Filamenti d’oro delicati si sollevano dall’acqua, spiralando come vento lieve che porta sogni. Base ad acquerello con dettagli in acrilico. Cinematico, poetico, atmosferico.
+
+2. Una scena marina poetica al crepuscolo: un villaggio di pescatori in stile greco con tetti rossi, circondato da vegetazione selvaggia e mare aperto. Fili dorati eterei si sollevano dall’oceano, avvolgendo quattro silhouette in piedi sulla riva. Cielo e mare si fondono in acquerelli morbidi con contrasti acrilici nitidi.
+
+3. Sulla costa di un’isola remota, quattro giovani guardano l’orizzonte. Dietro di loro, case bianche con tetti rossi; davanti, spirali dorate di vento si alzano dal mare. Una allegoria di crescita, identità e spirito. Pittura ibrida tra acquerello e acrilico.
+
+4. Copertina in stile epico: quattro ragazzi su una scogliera di fronte all’oceano, vento dorato che vortica intorno a loro, un villaggio lontano con tetti rossi sullo sfondo. Alberi tropicali si muovono sullo sfondo. Atmosfera crepuscolare, morbidezza acquerellata, precisione acrilica.
+
+5. Un vento mistico d’oro si solleva dall’oceano, avvolgendo quattro giovani anime sulla spiaggia di un tranquillo villaggio del sud. L’immagine è ricca di texture simboliche: mare, cielo, foresta e il legame non detto che li unisce. Acquerello stilizzato con dettagli in acrilico.
+
+6. Un vento spirituale dorato si alza come una spirale leggera dal mare, sollevando lo sguardo e il cuore di quattro ragazzi scalzi sulla riva di una costa dimenticata. Il cielo è vivo, il mare sussurra. Il villaggio alle loro spalle osserva in silenzio. Onirico, dettagliato, evocativo.
+
+
+**Midjourney Prompts – Fratelli di Sale (Versione 6)**
+
+---
+
+**ENGLISH PROMPTS**
+
+1. An isolated coastal village with white houses and red roofs, nestled between a dense tropical forest and an endless sea. Four young boys stand on the edge of the land, gazing at the ocean. Gentle golden filaments rise from the water, spiraling like soft wind carrying dreams. Watercolor base with pencil detailing. Cinematic, poetic, atmospheric. --v 6 --ar 3:4
+
+2. A poetic seaside scene at dusk: a Greek-style fishing village with red roofs, surrounded by wild greenery and open sea. Ethereal golden threads swirl upward from the ocean, enveloping four silhouettes standing at the shore. The sky and sea blend in soft watercolors with sharp pencil highlights. --v 6 --ar 3:4
+
+3. On the shoreline of a remote island, four youths face the horizon. Behind them, white homes with red tile roofs, ahead of them, golden spirals of wind rise from the sea. An allegory of growth, identity, and spirit. Watercolor and pencil hybrid style. --v 6 --ar 3:4
+
+4. Epic cover art style: Four young boys on a cliff by the ocean, golden wind swirling around them, a distant village with red rooftops behind. Tropical trees sway in the background. Gentle twilight atmosphere, watercolor softness, pencil sketch precision. --v 6 --ar 3:4
+
+5. A mystical wind of gold rises from the ocean, curling around four young souls on the beach of a quiet southern village. The image is rich with symbolic elements: sea, sky, forest, and the unspoken link between them. Stylized watercolor with delicate pencil textures. --v 6 --ar 3:4
+
+6. Golden spiritual wind rises like a soft spiral from the sea, lifting the gaze and hearts of four barefoot boys at the edge of a forgotten coast. The sky is alive, the sea whispering. The village behind them watches in silence. Dreamlike, detailed, and evocative. --v 6 --ar 3:4
+
+7. A poetic coastal village with white-washed houses and red roofs, backed by dense jungle and open sea. Gentle golden wind spirals emerge from the ocean, surrounding four boys at the shore. Watercolor textures with faint pencil lines capture softness and movement, combining dreamy atmosphere, lyrical composition, and natural intricacy. --v 6 --ar 3:4
+
+8. A serene seashore at twilight with red-roofed houses, dense green forest, and golden filaments of wind rising from the sea. Four young figures stand barefoot on the sand, looking into the horizon. Rendered in soft watercolor tones and light pencil linework for an expressive, narrative feel. --v 6 --niji --ar 3:4
+
+---
+
+**TRADUZIONI IN ITALIANO**
+
+1. Un villaggio costiero isolato con case bianche e tetti rossi, incastonato tra una fitta foresta tropicale e un mare infinito. Quattro giovani ragazzi in piedi sul bordo della terra guardano l’oceano. Filamenti d’oro delicati si sollevano dall’acqua, spiralando come vento lieve che porta sogni. Base ad acquerello con dettagli a matita. Cinematico, poetico, atmosferico.
+
+2. Una scena marina poetica al crepuscolo: un villaggio di pescatori in stile greco con tetti rossi, circondato da vegetazione selvaggia e mare aperto. Fili dorati eterei si sollevano dall’oceano, avvolgendo quattro silhouette in piedi sulla riva. Cielo e mare si fondono in acquerelli morbidi con contrasti a matita nitidi.
+
+3. Sulla costa di un’isola remota, quattro giovani guardano l’orizzonte. Dietro di loro, case bianche con tetti rossi; davanti, spirali dorate di vento si alzano dal mare. Una allegoria di crescita, identità e spirito. Stile ibrido tra acquerello e matita.
+
+4. Copertina in stile epico: quattro ragazzi su una scogliera di fronte all’oceano, vento dorato che vortica intorno a loro, un villaggio lontano con tetti rossi sullo sfondo. Alberi tropicali si muovono sullo sfondo. Atmosfera crepuscolare, morbidezza acquerellata, precisione a matita.
+
+5. Un vento mistico d’oro si solleva dall’oceano, avvolgendo quattro giovani anime sulla spiaggia di un tranquillo villaggio del sud. L’immagine è ricca di elementi simbolici: mare, cielo, foresta e il legame non detto che li unisce. Acquerello stilizzato con texture a matita delicate.
+
+6. Un vento spirituale dorato si alza come una spirale leggera dal mare, sollevando lo sguardo e il cuore di quattro ragazzi scalzi sulla riva di una costa dimenticata. Il cielo è vivo, il mare sussurra. Il villaggio alle loro spalle osserva in silenzio. Onirico, dettagliato, evocativo.
+
+7. Un villaggio costiero poetico con case imbiancate e tetti rossi, sullo sfondo una giungla densa e un mare aperto. Spirali di vento dorato emergono dall’oceano e circondano quattro ragazzi sulla riva. Texture ad acquerello con lievi linee a matita catturano morbidezza e movimento, unendo atmosfera onirica, composizione lirica e complessità naturale.
+
+8. Una riva serena al crepuscolo con case dai tetti rossi, foresta verde intensa e filamenti dorati di vento che si alzano dal mare. Quattro giovani figure stanno scalze sulla sabbia, guardando l’orizzonte. Resa in toni acquerellati e linee leggere a matita per un effetto narrativo ed espressivo.
