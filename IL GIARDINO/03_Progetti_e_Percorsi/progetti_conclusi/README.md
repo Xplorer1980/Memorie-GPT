@@ -1,3 +1,3 @@
-# 0 Le due domande guida 
+# README
 
 *Contenuto da integrare.*
