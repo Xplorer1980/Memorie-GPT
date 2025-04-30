@@ -1,0 +1,9 @@
+{
+  "app:open-vault": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": []
+}

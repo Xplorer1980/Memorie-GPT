@@ -1,0 +1,9 @@
+
+🎙️ Script da dire ad Alexa:
+
+1. "Alexa, ricordami ogni giorno alle 7:30 di bere acqua, respirare e prendere la pasticca."
+2. "Alexa, ricordami ogni giorno alle 18:00 di prendere la pasticca del pomeriggio."
+3. "Alexa, ricordami ogni sera alle 22:00 di respirare, chiudere la giornata e prendere la pasticca serale."
+
+(Opzionale)
+4. "Alexa, ricordami ogni giorno alle 13:00 di fare una pausa di 5 minuti."

@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "bf9e39f48f81f262",
+    "type": "split",
+    "children": [
+      {
+        "id": "714031e1854634e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c346dc86de64f090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Vita_e_Struttura/Il_mio_ritmo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Il_mio_ritmo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a43f760b35c1736",
+    "type": "split",
+    "children": [
+      {
+        "id": "87749bac0fb03d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1f8ed8151730e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "810284185c71deb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "178a88da99c95394",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "711a8a54c8c9c40b",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f2e750fd9a8b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62104ade85d354bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "87fc7e62e4df1f6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "49039bb2de6ff570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9117690c3eeef15a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e1f8ed8151730e7",
+  "lastOpenFiles": [
+    "00_Vita_e_Struttura/00_micro_azioni_sentiree.md",
+    "00_Vita_e_Struttura/Nuovo Text Document.txt",
+    "00_Vita_e_Struttura/Nuova cartella",
+    "00_Vita_e_Struttura/Allenare_il_sentirmi.md",
+    "00_Vita_e_Struttura/Il_mio_ritmo.md",
+    "00_Vita_e_Struttura/Mi_sento_perso.md",
+    "07_Citazioni_Vive/citazioni_vive.md",
+    "07_Citazioni_Vive/07_intro_citazioni_vive.md",
+    "03_Progetti_e_Percorsi/progetti_futuri/Progetti_Futuri_Monetizzabili__ZBrush.md",
+    "02_Identità_Creativa_e_Esplorazioni/02_Intro_Identità_Creativa_e_Esplorazioni.md",
+    "02_Identità_Creativa_e_Esplorazioni/Citazioni_personali__Riflessioni_da_chat.md",
+    "02_Identità_Creativa_e_Esplorazioni/Interessi_principali_versione_macro.md",
+    "02_Identità_Creativa_e_Esplorazioni/Creatività.md",
+    "02_Identità_Creativa_e_Esplorazioni",
+    "07_Citazioni_Vive",
+    "06_Presenze_e_Compagni/Scrematura_Chat__Life_Building_2025-04-18.md",
+    "06_Presenze_e_Compagni/Rientro_in_Obsidian__Percorso_guidato.md",
+    "06_Presenze_e_Compagni/Progetto_Futuro_-_GPTs_guida_personale.md",
+    "06_Presenze_e_Compagni/Percorso_guidato__Rientro_nel_sistema.md",
+    "06_Presenze_e_Compagni/Guida__Convertire_.py_in_.exe_Kit_Portabile.md",
+    "06_Presenze_e_Compagni/Guida_Personalizzazione_Callout.md",
+    "06_Presenze_e_Compagni/GUIDA_DI_AVVIO.md",
+    "06_Presenze_e_Compagni/DA_ChatGPT_a....md",
+    "06_Presenze_e_Compagni/Controllo_Saturazione_Chat__Quando_trasferire.md",
+    "06_Presenze_e_Compagni/Citazioni_personali__Riflessioni_da_chat.md",
+    "06_Presenze_e_Compagni/0_Le_due_domande_guida_.md",
+    "06_Presenze_e_Compagni/06_intro_presenze_e_compagni.md",
+    "06_Presenze_e_Compagni/00_ZBrush_Percorso_Core_e_Metodo_Guidato.md",
+    "06_Presenze_e_Compagni/00_-_Principi_che_mi_guidano.md",
+    "06_Presenze_e_Compagni",
+    "05_Ritmi_Quotidiani/Ritmo_Tornare_al_Centro.md",
+    "05_Ritmi_Quotidiani/Ritmo_Base_Stampabile.txt",
+    "05_Ritmi_Quotidiani/Alexa_Script_Ritmo_Base.txt",
+    "05_Ritmi_Quotidiani",
+    "04_Strumenti_Attivi/SpostaDuplicati_Profondo.py",
+    "04_Strumenti_Attivi/SpostaDuplicatiAvanzato.py"
+  ]
+}
