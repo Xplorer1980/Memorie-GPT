@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "bf9e39f48f81f262",
+    "id": "7c29fd14031a873b",
     "type": "split",
     "children": [
       {
-        "id": "714031e1854634e8",
+        "id": "82d49c02b5027c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "c346dc86de64f090",
+            "id": "b1b1a550aad828fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Bussola_Direzione/Bussola_Personale_Base.md",
+                "file": "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Creatività.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bussola_Personale_Base"
+              "title": "Creatività"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0a43f760b35c1736",
+    "id": "d493ccef04fab57c",
     "type": "split",
     "children": [
       {
-        "id": "87749bac0fb03d7f",
+        "id": "8a4451f8ef36321e",
         "type": "tabs",
         "children": [
           {
-            "id": "9e1f8ed8151730e7",
+            "id": "dc5b05aaf1138005",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "810284185c71deb5",
+            "id": "410249b27b333d90",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "178a88da99c95394",
+            "id": "19e3307390ce68c7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "711a8a54c8c9c40b",
+    "id": "4c720f5220148a04",
     "type": "split",
     "children": [
       {
-        "id": "58f2e750fd9a8b37",
+        "id": "f5b1b2a85f54e732",
         "type": "tabs",
         "children": [
           {
-            "id": "62104ade85d354bc",
+            "id": "ec7a4ab626124713",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Template e Prompt utili/Prompt Utili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Prompt Utili"
             }
           },
           {
-            "id": "87fc7e62e4df1f6d",
+            "id": "0a24fbc41c03f714",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Template e Prompt utili/Prompt Utili.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Prompt Utili"
             }
           },
           {
-            "id": "49039bb2de6ff570",
+            "id": "e9056a5b7ca1f3ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +137,18 @@
             }
           },
           {
-            "id": "9117690c3eeef15a",
+            "id": "3921cd98090c976e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Template e Prompt utili/Prompt Utili.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Prompt Utili"
             }
           }
         ]
@@ -165,43 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c346dc86de64f090",
+  "active": "b1b1a550aad828fa",
   "lastOpenFiles": [
-    "06_Presenze_Compagni/0_Le_due_domande_guida_.md",
-    "06_Presenze_Compagni/00_Principi_che_mi_guidano.md",
-    "06_Presenze_Compagni/00_ZBrush_Percorso_Core_e_Metodo_Guidato.md",
-    "06_Presenze_Compagni/06_intro_presenze_e_compagni.md",
-    "06_Presenze_Compagni/Guida_Convertire_.py_in_.exe_Kit_Portabile.md",
-    "06_Presenze_Compagni/Pan.md",
-    "00_Vita_Struttura/Il_mio_ritmo.md",
-    "03_Progetti_Percorsi/progetti_attivi/primo_micro_passo.md",
-    "06_Presenze_Compagni/Kairos.md",
-    "06_Presenze_Compagni/Gwen.md",
-    "00_Vita_Struttura/Mi_sento_perso.md",
-    "Index.md",
-    "01_Bussola_Direzione/01b_percorso_intermedio.md",
-    "Archivio_Semi_Futuri.md",
-    "06_Presenze_e_Compagni/Kairos.md",
-    "06_Presenze_e_Compagni/Pan.md",
-    "06_Presenze_e_Compagni/Gwen.md",
-    "01_Bussola_e_Direzione/01b_percorso_intermedio.md",
-    "01_Bussola_e_Direzione/01_Intro_Bussola_e_Direzione.md",
-    "struttura.txt",
-    "Memoria_Core.md",
-    "Memoria_Core (2).md",
-    "01_Bussola_e_Direzione/01b_percorso_intermedio (2).md",
-    "01_Bussola_e_Direzione/01_mappa_direzioni_attuali.md",
-    "01_Bussola_e_Direzione/Bussola_Personale_-_Base.md",
-    "Untitled.md",
-    "Memoria_Core (1).md",
-    "Untitled",
-    "01a – Esplorazione Personale",
-    "00a_intro_analisi_vault2",
-    "00a_Analisi Profonda del Vault 2.0",
-    "02_Identità_Creativa_e_Esplorazioni",
-    "07_Citazioni_Vive",
-    "06_Presenze_e_Compagni",
-    "05_Ritmi_Quotidiani/Ritmo_Base_Stampabile.txt",
-    "05_Ritmi_Quotidiani/Alexa_Script_Ritmo_Base.txt"
+    "0000 Cuore/README.md",
+    "0000 Cuore/README (1).md",
+    "0000 Cuore/0_Ritorno a Me Guida del Giorno.md",
+    "0000 Cuore/=_Ritorno a Me Guida del Giorno.md",
+    "0000 Cuore/Citazioni_Vive.md",
+    "0000 Cuore/Ritorno a Me Guida del Giorno.md",
+    "0000 Cuore/Identita_Vive_Raffaello_Kairos_Gwen (1).md",
+    "0000 Cuore",
+    "000Cuore",
+    "000_Cuore",
+    "00_Cuore",
+    "Nuova cartella",
+    "000 INIZIO/Ritorno a Me Guida del Giorno.md",
+    "000 INIZIO/Ritorno_a_Me-Guida_del_Giorno.md",
+    "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Creatività.md",
+    "05 Ritmi Quotidiani/Rituale pause CORE/Vuoto.txt",
+    "05 Ritmi Quotidiani/Rituale pause CORE/Nuovo Text Document.txt",
+    "05 Ritmi Quotidiani.zip",
+    "05 Ritmi Quotidiani/Riruale pause Soft/Vault_Rituale_delle_Pause.md",
+    "05 Ritmi Quotidiani/Rituale pause CORE",
+    "05 Ritmi Quotidiani/Nuova cartella",
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola_Personale - Base.md",
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola_Personale_-_VERSIONE_DEFINITIVA.md",
+    "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Saggezza da Chat/Saggezza_da_Chat.md",
+    "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Interessi principali versione macro.md",
+    "00 Vita  Struttura/01 - Bussola e Direzione/00 - Principi che mi guidano.md",
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola Personale - Base.md",
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola Personale - BaseCORE.md",
+    "00 Vita  Struttura/01 - Bussola e Direzione/Bussola_Personale_-_Con_Riflessione_Aiuto.md",
+    "01 Progetti/02_Canale Youtube/Progetto_Canale_YouTube  Integrato.md",
+    "05 Ritmi Quotidiani/Ritmo_Tornare_al_Centro.md",
+    "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Saggezza da Chat/Citazioni personali  Riflessioni da chat.md",
+    "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Saggezza da Chat/Citazioni_personali_Riflessioni_da_chat_AGGIORNATO.md",
+    "00 Vita  Struttura/02 - Esplorazioni e Identità Creativa/Saggezza da Chat/0.md",
+    "00 Vita  Struttura/00 - Spazi Protetti e Cura/Allenare il sentirmi  Modalità quotidiane.md",
+    "000 INIZIO/Index.md"
   ]
 }

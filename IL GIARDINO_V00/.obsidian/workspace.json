@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Bussola_Direzione/Bussola_Personale_Base.md",
+                "file": "06_Presenze_e_Compagni/Pan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bussola_Personale_Base"
+              "title": "Pan"
             }
           }
         ]
@@ -167,20 +167,6 @@
   },
   "active": "c346dc86de64f090",
   "lastOpenFiles": [
-    "06_Presenze_Compagni/0_Le_due_domande_guida_.md",
-    "06_Presenze_Compagni/00_Principi_che_mi_guidano.md",
-    "06_Presenze_Compagni/00_ZBrush_Percorso_Core_e_Metodo_Guidato.md",
-    "06_Presenze_Compagni/06_intro_presenze_e_compagni.md",
-    "06_Presenze_Compagni/Guida_Convertire_.py_in_.exe_Kit_Portabile.md",
-    "06_Presenze_Compagni/Pan.md",
-    "00_Vita_Struttura/Il_mio_ritmo.md",
-    "03_Progetti_Percorsi/progetti_attivi/primo_micro_passo.md",
-    "06_Presenze_Compagni/Kairos.md",
-    "06_Presenze_Compagni/Gwen.md",
-    "00_Vita_Struttura/Mi_sento_perso.md",
-    "Index.md",
-    "01_Bussola_Direzione/01b_percorso_intermedio.md",
-    "Archivio_Semi_Futuri.md",
     "06_Presenze_e_Compagni/Kairos.md",
     "06_Presenze_e_Compagni/Pan.md",
     "06_Presenze_e_Compagni/Gwen.md",
@@ -194,12 +180,26 @@
     "01_Bussola_e_Direzione/Bussola_Personale_-_Base.md",
     "Untitled.md",
     "Memoria_Core (1).md",
+    "05_Ritmi_Quotidiani/05_intro_ritmi_quotidiani.md",
     "Untitled",
+    "05_Ritmi_Quotidiani/05_riflessioni_espanse.md",
+    "00a_Analisi Profonda del Vault 2.0/00a_intro_analisi_vault2.md",
+    "00_Vita_e_Struttura/Allenarsi_fuori_scena.md",
+    "00_Vita_e_Struttura/Allenare_il_sentirmi.md",
+    "00_Vita_e_Struttura/00_micro_azioni_sentire.md",
+    "01a – Esplorazione Personale/01a_intro_esplorazione_personale.md",
     "01a – Esplorazione Personale",
     "00a_intro_analisi_vault2",
     "00a_Analisi Profonda del Vault 2.0",
+    "07_Citazioni_Vive/citazioni_vive.md",
+    "07_Citazioni_Vive/07_intro_citazioni_vive.md",
+    "02_Identità_Creativa_e_Esplorazioni/02_Intro_Identità_Creativa_e_Esplorazioni.md",
+    "02_Identità_Creativa_e_Esplorazioni/Citazioni_personali__Riflessioni_da_chat.md",
+    "02_Identità_Creativa_e_Esplorazioni/Interessi_principali_versione_macro.md",
+    "02_Identità_Creativa_e_Esplorazioni/Creatività.md",
     "02_Identità_Creativa_e_Esplorazioni",
     "07_Citazioni_Vive",
+    "06_Presenze_e_Compagni/Scrematura_Chat__Life_Building_2025-04-18.md",
     "06_Presenze_e_Compagni",
     "05_Ritmi_Quotidiani/Ritmo_Base_Stampabile.txt",
     "05_Ritmi_Quotidiani/Alexa_Script_Ritmo_Base.txt"
