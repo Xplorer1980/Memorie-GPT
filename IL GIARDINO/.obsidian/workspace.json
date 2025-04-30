@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Vita_e_Struttura/Allenare_il_sentirmi.md",
+                "file": "00a_Analisi Profonda del Vault 2.0/00a_intro_analisi_vault2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allenare_il_sentirmi"
+              "title": "00a_intro_analisi_vault2"
             }
           }
         ]
@@ -167,6 +167,12 @@
   },
   "active": "c346dc86de64f090",
   "lastOpenFiles": [
+    "01a – Esplorazione Personale/01a_intro_esplorazione_personale.md",
+    "00a_Analisi Profonda del Vault 2.0/00a_intro_analisi_vault2.md",
+    "01a – Esplorazione Personale",
+    "00_Vita_e_Struttura/Allenare_il_sentirmi.md",
+    "00a_intro_analisi_vault2",
+    "00a_Analisi Profonda del Vault 2.0",
     "07_Citazioni_Vive/citazioni_vive.md",
     "07_Citazioni_Vive/07_intro_citazioni_vive.md",
     "02_Identità_Creativa_e_Esplorazioni/02_Intro_Identità_Creativa_e_Esplorazioni.md",
@@ -196,12 +202,6 @@
     "05_Ritmi_Quotidiani/05_intro_ritmi_quotidiani.md",
     "05_Ritmi_Quotidiani",
     "04_Strumenti_Attivi/Strategia_Decluttering.md",
-    "04_Strumenti_Attivi/SpostaDuplicati_Profondo.py",
-    "04_Strumenti_Attivi/SpostaDuplicatiAvanzato.py",
-    "04_Strumenti_Attivi/Sistema_strumenti_digitali_-_app_e_software.md",
-    "04_Strumenti_Attivi/Riordino_Digitale_-_Settimanale.md",
-    "04_Strumenti_Attivi/Procedura_GPT.md",
-    "04_Strumenti_Attivi/GeneraListaHD_finale.py",
-    "04_Strumenti_Attivi"
+    "04_Strumenti_Attivi/SpostaDuplicati_Profondo.py"
   ]
 }
