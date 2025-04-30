@@ -11,10 +11,14 @@
             "id": "b1b1a550aad828fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 Vita  Struttura/01 - Bussola e Direzione/Bussola Personale - Base.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bussola Personale - Base"
             }
           }
         ]

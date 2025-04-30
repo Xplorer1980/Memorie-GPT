@@ -2,6 +2,15 @@
 
 Qui ritroviamo la nostra rotta.  
 Qui nascono visione, valori, principi guida e domande vive.
+## 🪨 Riflessioni espanse
+| Momento         | Attività                                                          |
+| --------------- | ----------------------------------------------------------------- |
+| **Mattina**     | 🔹 _15’ Meditazione_ + _30’ Scrittura/Riflessione_                |
+|                 | ☀️ Attività fisica leggera (20–30’) – camminata, stretching, ecc. |
+| **Mezzogiorno** | 🧠 Attività variabile (riordino, creatività o gestione Obsidian)  |
+| **Pomeriggio**  | 📁 Riordino digitale o fisico (1 blocco da 25–50 min max)         |
+| **Sera**        | 🌙 Rilassamento libero + breve journaling / aggiornamento note    |
+
 
 ## 🪨 Cosa voglio evitare
 

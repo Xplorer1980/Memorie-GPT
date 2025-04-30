@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00a_Analisi Profonda del Vault 2.0/00a_intro_analisi_vault2.md",
+                "file": "01_Bussola_e_Direzione/01_Intro_Bussola_e_Direzione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00a_intro_analisi_vault2"
+              "title": "01_Intro_Bussola_e_Direzione"
             }
           }
         ]
@@ -167,10 +167,24 @@
   },
   "active": "c346dc86de64f090",
   "lastOpenFiles": [
-    "01a – Esplorazione Personale/01a_intro_esplorazione_personale.md",
+    "Memoria_Core.md",
+    "Memoria_Core (2).md",
+    "01_Bussola_e_Direzione/01b_percorso_intermedio.md",
+    "01_Bussola_e_Direzione/01b_percorso_intermedio (2).md",
+    "01_Bussola_e_Direzione/01_Intro_Bussola_e_Direzione.md",
+    "01_Bussola_e_Direzione/01_mappa_direzioni_attuali.md",
+    "01_Bussola_e_Direzione/Bussola_Personale_-_Base.md",
+    "Untitled.md",
+    "Memoria_Core (1).md",
+    "05_Ritmi_Quotidiani/05_intro_ritmi_quotidiani.md",
+    "Untitled",
+    "05_Ritmi_Quotidiani/05_riflessioni_espanse.md",
     "00a_Analisi Profonda del Vault 2.0/00a_intro_analisi_vault2.md",
-    "01a – Esplorazione Personale",
+    "00_Vita_e_Struttura/Allenarsi_fuori_scena.md",
     "00_Vita_e_Struttura/Allenare_il_sentirmi.md",
+    "00_Vita_e_Struttura/00_micro_azioni_sentire.md",
+    "01a – Esplorazione Personale/01a_intro_esplorazione_personale.md",
+    "01a – Esplorazione Personale",
     "00a_intro_analisi_vault2",
     "00a_Analisi Profonda del Vault 2.0",
     "07_Citazioni_Vive/citazioni_vive.md",
@@ -185,23 +199,9 @@
     "06_Presenze_e_Compagni/Rientro_in_Obsidian__Percorso_guidato.md",
     "06_Presenze_e_Compagni/Progetto_Futuro_-_GPTs_guida_personale.md",
     "06_Presenze_e_Compagni/Percorso_guidato__Rientro_nel_sistema.md",
-    "06_Presenze_e_Compagni/Guida__Convertire_.py_in_.exe_Kit_Portabile.md",
-    "06_Presenze_e_Compagni/Guida_Personalizzazione_Callout.md",
-    "06_Presenze_e_Compagni/GUIDA_DI_AVVIO.md",
-    "06_Presenze_e_Compagni/DA_ChatGPT_a....md",
-    "06_Presenze_e_Compagni/Controllo_Saturazione_Chat__Quando_trasferire.md",
-    "06_Presenze_e_Compagni/Citazioni_personali__Riflessioni_da_chat.md",
-    "06_Presenze_e_Compagni/0_Le_due_domande_guida_.md",
-    "06_Presenze_e_Compagni/06_intro_presenze_e_compagni.md",
-    "06_Presenze_e_Compagni/00_ZBrush_Percorso_Core_e_Metodo_Guidato.md",
-    "06_Presenze_e_Compagni/00_-_Principi_che_mi_guidano.md",
     "06_Presenze_e_Compagni",
-    "05_Ritmi_Quotidiani/Ritmo_Tornare_al_Centro.md",
     "05_Ritmi_Quotidiani/Ritmo_Base_Stampabile.txt",
     "05_Ritmi_Quotidiani/Alexa_Script_Ritmo_Base.txt",
-    "05_Ritmi_Quotidiani/05_intro_ritmi_quotidiani.md",
-    "05_Ritmi_Quotidiani",
-    "04_Strumenti_Attivi/Strategia_Decluttering.md",
-    "04_Strumenti_Attivi/SpostaDuplicati_Profondo.py"
+    "05_Ritmi_Quotidiani"
   ]
 }

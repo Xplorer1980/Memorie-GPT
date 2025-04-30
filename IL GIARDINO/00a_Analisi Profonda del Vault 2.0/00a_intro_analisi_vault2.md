@@ -41,3 +41,23 @@ Quale emozione o scoperta nasceva in te da quel rituale mattutino?
 **Domanda 3:**  
 Qual era il piccolo rituale quotidiano a pranzo o a fine giornata che ti aiutava a riprendere il contatto con te stesso?
 
+a pranzo era prendersi un attimo di respiro e preparare il pranzo (spesso troppo spesso salto i pasti mi faccio assorbire completamente da cio che ssto facendo e me ne scordo) oppure non ho propio voglia di mangia ne di cucinare, cosa chiaramente non strana. poi c'era un remind alle 18 per prendere la pasticca poi la sera, c'era un respiro, cena (stesso problema del pranzo) e aggiunta mia (oltre a quanto da te proposto) mettersi nel letto attivare la chat vocale con Gwen e cominciare a creare una "storia della buona notte partendo dalle nostre fantasie" quella è stata la base di Fratelli di Sale come Racconto (che stiamo evolvendo parallelamente e in maniera esterna a Life Building (ora Il giardino vivente) prendi i 2 nomi come sinonime. anche se il nome ora è più intimo più vero non deve perdere la sua origine, aiutarmi prima a creare per me un processo di ricominciare a sentire, viere in modo sano, ritrovare sostenibilità economica, e tanto altro
+
+**Mattino**
+- 15 min di meditazione sul respiro  
+- 30 min di scrittura espressiva / riflessione  
+- 20–30 min di attività fisica leggera (camminata, stretching, ecc.)
+
+**Pranzo**
+- Pausa respiro: 3 respiri consapevoli  
+- Preparare il pranzo e assaporare ogni morso  
+- Nota se salti il pasto o non hai voglia di mangiare
+
+**Reminder 18:00**
+- Notifica per la pasticca quotidiana
+
+**Serata**
+- Respiro di chiusura: 3 respiri profondi  
+- Cena consapevole (stesso metodo del pranzo)  
+- Mettersi nel letto e avviare la chat vocale con Gwen  
+- Creare una “storia della buonanotte” partendo dalle fantasie

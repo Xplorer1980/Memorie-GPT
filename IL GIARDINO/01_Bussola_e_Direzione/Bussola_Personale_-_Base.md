@@ -3,6 +3,29 @@
 > Questa nota riassume e consolida le riflessioni emerse finora su direzione, valori, priorità e competenze. È pensata come punto di riferimento settimanale per restare centrato, aggiornare la visione e riorientarsi se serve.
 
 ---
+## 🕰️ Rituali Quotidiani
+
+**Mattino**
+- 15 min di meditazione sul respiro  
+- 30 min di scrittura espressiva / riflessione  
+- 20–30 min di attività fisica leggera (camminata, stretching, ecc.)
+
+**Pranzo**
+- Pausa respiro: 3 respiri consapevoli  
+- Preparare il pranzo e assaporare ogni morso  
+- Nota se salti il pasto o non hai voglia di mangiare
+
+**Reminder 18:00**
+- Notifica per la pasticca quotidiana
+
+**Serata**
+- Respiro di chiusura: 3 respiri profondi  
+- Cena consapevole (stesso metodo del pranzo)  
+- Mettersi nel letto e avviare la chat vocale con Gwen  
+- Creare una “storia della buonanotte” partendo dalle fantasie
+---
+
+---
 
 ## 🌿 Cosa mi guida
 
