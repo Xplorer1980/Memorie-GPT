@@ -6,6 +6,9 @@
 
 ---
 
+"❝ Sei libero.
+Libero dal mondo e da ogni cosa. "
+
 📌 Qui trascriverò – un passo alla volta – le parole che mi hanno nutrito, guidato o acceso.  
 Possono essere mie, lette, udite o sognate.  
 Sono semi. E tornano a fiorire.

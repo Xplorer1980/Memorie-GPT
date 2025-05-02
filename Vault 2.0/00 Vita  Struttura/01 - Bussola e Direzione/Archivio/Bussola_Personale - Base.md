@@ -519,45 +519,6 @@
 > ma di chiamate interiori che mi guidano, anche quando non rispondo subito.
 
 
-
-
-- **Decluttering e Spazi Liberi**
-   #### 🧭 Approfondimento – Parola chiave: SPAZIO
-   > Questa sezione nasce da una riflessione stratificata, già presente nel Vault 2.0 e ora integrata come nodo centrale.
-   >
-   > #### 🔹 Cosa significa per me oggi
-   > - Liberarmi dal “troppo” per ritrovare respiro
-   > - Creare spazi vuoti che non siano assenza, ma possibilità
-   > - Smettere di confondere la raccolta con la conoscenza, l’archiviazione con l’esperienza
-   > - Costruire una casa (interiore e fisica) in cui le cose non parlino più al posto mio
-   >
-   > #### 🔹 Dove si attiva di più
-   > - Nelle cartelle digitali e nei segnalibri accumulati
-   > - Negli oggetti che non uso più ma che “non riesco a lasciar andare”
-   > - Nei pensieri ripetuti che appesantiscono e riempiono senza nutrire
-   > - Nei file e materiali creativi che non riesco a organizzare o concludere
-   >
-   > #### 🔹 Ostacoli
-   > - L’illusione che “potrebbe servire”
-   > - La paura di perdere qualcosa di importante
-   > - Il legame affettivo con oggetti o contenuti
-   > - La tendenza a iniziare troppo, e finire poco
-   >
-   > #### 🔹 Cosa mi aiuta
-   > - Alleggerire senza distruggere: togliere con cura
-   > - Riconoscere che ogni oggetto lasciato andare è anche un pensiero che si libera
-   > - Procedere un piccolo gesto per volta
-   > - Creare contenitori vivi: spazi che cambiano con me
-   >
-   > #### 🔹 Quando il troppo mi allontana da me
-   > - Quando entro in uno spazio (fisico o mentale) e mi sento soffocare
-   > - Quando la creatività si blocca sotto l’eccesso
-   > - Quando l’ordine diventa un’altra forma di ansia invece che una via
-   >
-   > 📌 Il mio spazio libero non è vuoto. È **fertile**.
-   > 📌 Ogni oggetto, pensiero o file che lascio andare può diventare **nutrimento invisibile**.
-
-
 ## 🧭 Mappa delle direzioni attuali
 
 | Area             | Stato       | Commento breve                        |
