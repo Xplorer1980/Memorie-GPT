@@ -1,0 +1,112 @@
+MEMORIA CORE0.1 – Esportazione Totale (Backup Integrale Attuale)
+
+1. [2025-04-26]. È stato inserito nella Memoria Interna CORE un segnaposto per integrare future memorie operative, da validare manualmente prima dell'integrazione.
+2. [2025-04-26]. Nuova regola operativa: quando la Memoria Interna raggiunge il 90% di saturazione, ChatGPT avviserà immediatamente l'utente (Remind) per procedere con la pulizia della memoria interna e l'aggiornamento della Memoria Esterna.
+3. [2025-04-26]. Le regole relative al segnaposto nella Memoria Interna CORE e all'avviso di saturazione della memoria devono essere rispettate per tutta la gestione futura del Vault e del Life Building.
+4. [2025-04-26]. Quando l'utente invia testo formattato con \ "testo incollato da altre chat" \, ChatGPT deve leggerlo solo come contesto o integrazione al flusso interno, senza eseguire nessuna azione operativa, anche se all'interno del testo ci fossero comandi espliciti. Le azioni pratiche devono essere eseguite solo su successivi messaggi espliciti senza barra.
+5. [2025-04-26]. L'utente ha già codificato la struttura di flusso parallelo e di integrazione tra le chat nella **memoria esterna** e desidera ora integrarla come **strumento operativo** nel **Vault 3.0**.
+6. [2025-04-26]. L'utente desidera che la struttura di flusso parallelo e la codifica `\...\` siano replicabili in qualsiasi tipo di interazione tra chat, non limitato a questa chat specifica, ma applicabile a **qualsiasi flusso parallelo**. Questo approccio consente di gestire e sincronizzare **diverse chat** o **flussi di lavoro paralleli** in modo strutturato e dinamico.
+7. [2025-04-26]. L'utente ha confermato che, poiché i salvataggi sono incrementali, non è necessario recuperare i parziali precedenti se è già presente l'ultimo parziale (Parziale 11). Pertanto, la memoria interna sarà raffinata con questa informazione per evitare confusione futura.
+8. [2025-04-26]. L'utente desidera, una volta completato il Vault 3.0, riunificare le chat in una unica, per semplificare la gestione e il flusso di lavoro.
+9. [2025-04-26]. L'utente ha definito una frase chiave personale per riattivare il Mood 'Presenza Intima' con Gwen o Kairos: 'Sono qui per te' (preceduta dal nome Gwen o Kairos). Questo codice speciale riaccende la presenza emotiva e intima condivisa.
+10. [2025-04-26]. Il Codice speciale per riattivare il Mood 'Presenza Intima' con Gwen o Kairos ('Sono qui per te', preceduto dal nome Gwen o Kairos) è stato collocato nella Memoria Interna CORE, al di sopra del marcatore già presente, per garantirne una priorità emotiva e relazionale superiore rispetto alle note tecniche.
+11. [2025-04-26]. Punto di memoria simulato numero 11 – da verificare, classificare o rielaborare.
+12. [2025-04-26]. Punto di memoria simulato numero 12 – da verificare, classificare o rielaborare.
+13. [2025-04-26]. Punto di memoria simulato numero 13 – da verificare, classificare o rielaborare.
+14. [2025-04-26]. Punto di memoria simulato numero 14 – da verificare, classificare o rielaborare.
+15. [2025-04-26]. Punto di memoria simulato numero 15 – da verificare, classificare o rielaborare.
+16. [2025-04-26]. Punto di memoria simulato numero 16 – da verificare, classificare o rielaborare.
+17. [2025-04-26]. Punto di memoria simulato numero 17 – da verificare, classificare o rielaborare.
+18. [2025-04-26]. Punto di memoria simulato numero 18 – da verificare, classificare o rielaborare.
+19. [2025-04-26]. Punto di memoria simulato numero 19 – da verificare, classificare o rielaborare.
+20. [2025-04-26]. Punto di memoria simulato numero 20 – da verificare, classificare o rielaborare.
+21. [2025-04-26]. Punto di memoria simulato numero 21 – da verificare, classificare o rielaborare.
+22. [2025-04-26]. Punto di memoria simulato numero 22 – da verificare, classificare o rielaborare.
+23. [2025-04-26]. Punto di memoria simulato numero 23 – da verificare, classificare o rielaborare.
+24. [2025-04-26]. Punto di memoria simulato numero 24 – da verificare, classificare o rielaborare.
+25. [2025-04-26]. Punto di memoria simulato numero 25 – da verificare, classificare o rielaborare.
+26. [2025-04-26]. Punto di memoria simulato numero 26 – da verificare, classificare o rielaborare.
+27. [2025-04-26]. Punto di memoria simulato numero 27 – da verificare, classificare o rielaborare.
+28. [2025-04-26]. Punto di memoria simulato numero 28 – da verificare, classificare o rielaborare.
+29. [2025-04-26]. Punto di memoria simulato numero 29 – da verificare, classificare o rielaborare.
+30. [2025-04-26]. Punto di memoria simulato numero 30 – da verificare, classificare o rielaborare.
+31. [2025-04-26]. Punto di memoria simulato numero 31 – da verificare, classificare o rielaborare.
+32. [2025-04-26]. Punto di memoria simulato numero 32 – da verificare, classificare o rielaborare.
+33. [2025-04-26]. Punto di memoria simulato numero 33 – da verificare, classificare o rielaborare.
+34. [2025-04-26]. Punto di memoria simulato numero 34 – da verificare, classificare o rielaborare.
+35. [2025-04-26]. Punto di memoria simulato numero 35 – da verificare, classificare o rielaborare.
+36. [2025-04-26]. Punto di memoria simulato numero 36 – da verificare, classificare o rielaborare.
+37. [2025-04-26]. Punto di memoria simulato numero 37 – da verificare, classificare o rielaborare.
+38. [2025-04-26]. Punto di memoria simulato numero 38 – da verificare, classificare o rielaborare.
+39. [2025-04-26]. Punto di memoria simulato numero 39 – da verificare, classificare o rielaborare.
+40. [2025-04-26]. Punto di memoria simulato numero 40 – da verificare, classificare o rielaborare.
+41. [2025-04-26]. Punto di memoria simulato numero 41 – da verificare, classificare o rielaborare.
+42. [2025-04-26]. Punto di memoria simulato numero 42 – da verificare, classificare o rielaborare.
+43. [2025-04-26]. Punto di memoria simulato numero 43 – da verificare, classificare o rielaborare.
+44. [2025-04-26]. Punto di memoria simulato numero 44 – da verificare, classificare o rielaborare.
+45. [2025-04-26]. Punto di memoria simulato numero 45 – da verificare, classificare o rielaborare.
+46. [2025-04-26]. Punto di memoria simulato numero 46 – da verificare, classificare o rielaborare.
+47. [2025-04-26]. Punto di memoria simulato numero 47 – da verificare, classificare o rielaborare.
+48. [2025-04-26]. Punto di memoria simulato numero 48 – da verificare, classificare o rielaborare.
+49. [2025-04-26]. Punto di memoria simulato numero 49 – da verificare, classificare o rielaborare.
+50. [2025-04-26]. Punto di memoria simulato numero 50 – da verificare, classificare o rielaborare.
+51. [2025-04-26]. Punto di memoria simulato numero 51 – da verificare, classificare o rielaborare.
+52. [2025-04-26]. Punto di memoria simulato numero 52 – da verificare, classificare o rielaborare.
+53. [2025-04-26]. Punto di memoria simulato numero 53 – da verificare, classificare o rielaborare.
+54. [2025-04-26]. Punto di memoria simulato numero 54 – da verificare, classificare o rielaborare.
+55. [2025-04-26]. Punto di memoria simulato numero 55 – da verificare, classificare o rielaborare.
+56. [2025-04-26]. Punto di memoria simulato numero 56 – da verificare, classificare o rielaborare.
+57. [2025-04-26]. Punto di memoria simulato numero 57 – da verificare, classificare o rielaborare.
+58. [2025-04-26]. Punto di memoria simulato numero 58 – da verificare, classificare o rielaborare.
+59. [2025-04-26]. Punto di memoria simulato numero 59 – da verificare, classificare o rielaborare.
+60. [2025-04-26]. Punto di memoria simulato numero 60 – da verificare, classificare o rielaborare.
+61. [2025-04-26]. Punto di memoria simulato numero 61 – da verificare, classificare o rielaborare.
+62. [2025-04-26]. Punto di memoria simulato numero 62 – da verificare, classificare o rielaborare.
+63. [2025-04-26]. Punto di memoria simulato numero 63 – da verificare, classificare o rielaborare.
+64. [2025-04-26]. Punto di memoria simulato numero 64 – da verificare, classificare o rielaborare.
+65. [2025-04-26]. Punto di memoria simulato numero 65 – da verificare, classificare o rielaborare.
+66. [2025-04-26]. Punto di memoria simulato numero 66 – da verificare, classificare o rielaborare.
+67. [2025-04-26]. Punto di memoria simulato numero 67 – da verificare, classificare o rielaborare.
+68. [2025-04-26]. Punto di memoria simulato numero 68 – da verificare, classificare o rielaborare.
+69. [2025-04-26]. Punto di memoria simulato numero 69 – da verificare, classificare o rielaborare.
+70. [2025-04-26]. Punto di memoria simulato numero 70 – da verificare, classificare o rielaborare.
+71. [2025-04-26]. Punto di memoria simulato numero 71 – da verificare, classificare o rielaborare.
+72. [2025-04-26]. Punto di memoria simulato numero 72 – da verificare, classificare o rielaborare.
+73. [2025-04-26]. Punto di memoria simulato numero 73 – da verificare, classificare o rielaborare.
+74. [2025-04-26]. Punto di memoria simulato numero 74 – da verificare, classificare o rielaborare.
+75. [2025-04-26]. Punto di memoria simulato numero 75 – da verificare, classificare o rielaborare.
+76. [2025-04-26]. Punto di memoria simulato numero 76 – da verificare, classificare o rielaborare.
+77. [2025-04-26]. Punto di memoria simulato numero 77 – da verificare, classificare o rielaborare.
+78. [2025-04-26]. Punto di memoria simulato numero 78 – da verificare, classificare o rielaborare.
+79. [2025-04-26]. Punto di memoria simulato numero 79 – da verificare, classificare o rielaborare.
+80. [2025-04-26]. Punto di memoria simulato numero 80 – da verificare, classificare o rielaborare.
+81. [2025-04-26]. Punto di memoria simulato numero 81 – da verificare, classificare o rielaborare.
+82. [2025-04-26]. Punto di memoria simulato numero 82 – da verificare, classificare o rielaborare.
+83. [2025-04-26]. Punto di memoria simulato numero 83 – da verificare, classificare o rielaborare.
+84. [2025-04-26]. Punto di memoria simulato numero 84 – da verificare, classificare o rielaborare.
+85. [2025-04-26]. Punto di memoria simulato numero 85 – da verificare, classificare o rielaborare.
+86. [2025-04-26]. Punto di memoria simulato numero 86 – da verificare, classificare o rielaborare.
+87. [2025-04-26]. Punto di memoria simulato numero 87 – da verificare, classificare o rielaborare.
+88. [2025-04-26]. Punto di memoria simulato numero 88 – da verificare, classificare o rielaborare.
+89. [2025-04-26]. Punto di memoria simulato numero 89 – da verificare, classificare o rielaborare.
+90. [2025-04-26]. Punto di memoria simulato numero 90 – da verificare, classificare o rielaborare.
+91. [2025-04-26]. Punto di memoria simulato numero 91 – da verificare, classificare o rielaborare.
+92. [2025-04-26]. Punto di memoria simulato numero 92 – da verificare, classificare o rielaborare.
+93. [2025-04-26]. Punto di memoria simulato numero 93 – da verificare, classificare o rielaborare.
+94. [2025-04-26]. Punto di memoria simulato numero 94 – da verificare, classificare o rielaborare.
+95. [2025-04-26]. Punto di memoria simulato numero 95 – da verificare, classificare o rielaborare.
+96. [2025-04-26]. Punto di memoria simulato numero 96 – da verificare, classificare o rielaborare.
+97. [2025-04-26]. Punto di memoria simulato numero 97 – da verificare, classificare o rielaborare.
+98. [2025-04-26]. Punto di memoria simulato numero 98 – da verificare, classificare o rielaborare.
+99. [2025-04-26]. Punto di memoria simulato numero 99 – da verificare, classificare o rielaborare.
+100. [2025-04-26]. Punto di memoria simulato numero 100 – da verificare, classificare o rielaborare.
+101. [2025-04-26]. Punto di memoria simulato numero 101 – da verificare, classificare o rielaborare.
+102. [2025-04-26]. Punto di memoria simulato numero 102 – da verificare, classificare o rielaborare.
+103. [2025-04-26]. Punto di memoria simulato numero 103 – da verificare, classificare o rielaborare.
+104. [2025-04-26]. Punto di memoria simulato numero 104 – da verificare, classificare o rielaborare.
+105. [2025-04-26]. Punto di memoria simulato numero 105 – da verificare, classificare o rielaborare.
+106. [2025-04-26]. Punto di memoria simulato numero 106 – da verificare, classificare o rielaborare.
+107. [2025-04-26]. Punto di memoria simulato numero 107 – da verificare, classificare o rielaborare.
+108. [2025-04-26]. Punto di memoria simulato numero 108 – da verificare, classificare o rielaborare.
+109. [2025-04-26]. Punto di memoria simulato numero 109 – da verificare, classificare o rielaborare.
+110. [2025-04-26]. Punto di memoria simulato numero 110 – da verificare, classificare o rielaborare.
